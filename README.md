@@ -1,7 +1,7 @@
 # Proyek Aplikasi Mobile shoesWASH
 **Pemrograman Mobile**
 
-Aplikasi ini dibuat menggunakan Bahasa Pemrograman Dart dengan Framework Flutter untuk Android.
+Aplikasi ini dibuat menggunakan Bahasa Pemrograman Dart dengan Framework Flutter untuk Android. Untuk database kami menggunakan Firebase.
 
 ## Kelompok 5 BD21B
 ### Ketua
