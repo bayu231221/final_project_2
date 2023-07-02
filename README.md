@@ -1,6 +1,8 @@
 # Proyek Aplikasi Mobile shoesWASH
 **Pemrograman Mobile**
 
+Aplikasi ini dibuat menggunakan Bahasa Pemrograman Dart dengan Framework Flutter untuk Android.
+
 ## Kelompok 5 BD21B
 ### Ketua
 - Bayu Rahadi Natanael (21SB1052)
